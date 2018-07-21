@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is my first blog!
+title: tried prose.io!
 ---
 ## This post creating using prose.io
 
