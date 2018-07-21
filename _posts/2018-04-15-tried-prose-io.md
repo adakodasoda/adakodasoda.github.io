@@ -1,6 +1,7 @@
 ---
 layout: post
 title: tried prose.io!
+excerpt: Use this as excerpt
 ---
 ## This post creating using prose.io
 
